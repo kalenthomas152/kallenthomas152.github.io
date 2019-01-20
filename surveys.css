@@ -1,0 +1,48 @@
+body{
+
+    background-color: #2E93D5
+}
+
+
+h1{
+    text-align: center
+}
+
+
+h2{
+text-align: center
+}
+
+
+
+.nav ul{
+background-color: #444;
+list-style: none;
+text-align: center
+}
+
+
+
+.nav li{
+line-height: 50px;
+height: 50px;
+color: white;
+font-size: 1.4em;
+display: inline-block;
+padding: 10px;
+}
+
+
+.nav a{
+color: white;
+}
+
+a{
+font-size: 25px;
+}
+
+
+p{
+font-size: 20px;
+}
+
